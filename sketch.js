@@ -31,7 +31,7 @@ var mod3 = false;
 
 function setup() {
   var cnv =   createCanvas(displayWidth, displayHeight);
-  background(255);
+  background(0);
   stroke(255);
 
 
